@@ -1,14 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "WAComponent",
-	"category" : "cuoora-ui",
+	"super" : "Post",
+	"category" : "cuoora-model",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"email",
-		"password"
+		"text"
 	],
-	"name" : "LoginComponent",
+	"name" : "Answer",
 	"type" : "normal"
 }

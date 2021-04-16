@@ -2,14 +2,15 @@
 	"commentStamp" : "",
 	"super" : "Object",
 	"category" : "cuoora-model",
-	"classinstvars" : [ ],
+	"classinstvars" : [
+		"soleInstance"
+	],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"timeStamp",
-		"likes",
-		"dislikes"
+		"users",
+		"topics"
 	],
-	"name" : "Post",
+	"name" : "CuOOra",
 	"type" : "normal"
 }
